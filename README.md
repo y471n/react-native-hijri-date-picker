@@ -2,7 +2,8 @@
 
 ## Introduction
 
-This is a simple and easy-to-use Hijri calendar date picker for React Native. It is a cross-platform component that works on both iOS and Android. It is built using TypeScript and supports both TypeScript and JavaScript.
+React Native Hijri Date Picker – an open-source, cross-platform library that solves the lack of a simple and customizable Hijri calendar picker for mobile apps. It allows developers to select Hijri dates easily on both iOS and Android, with support for English and Arabic languages, numeric or string month representation, and flexible styling. Written in Typescript.
+
 
 ## Features
 
